@@ -33,7 +33,6 @@ body {
     margin: 0;
     font-family: "Rokkitt", serif;
     background-color: var(--black);
-    color: var(--white);
     font-size: var(--fs-18);
     line-height: 1.56;
 }
@@ -117,7 +116,7 @@ h2, ul {
     margin: 10rem auto;
     /* padding: 0 3.2rem; */
     border-radius: 8px;
-    background: hsl(153, 34%, 57%);
+    background-color: var(--mild-grey);
 }
 
 
