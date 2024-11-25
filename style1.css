@@ -29,6 +29,9 @@ img {
     /* width: 100%;
     border-radius: 8px; */
     margin: auto;
+    width: calc(100% - 10rem);
+    justify-content: center;
+    align-items: center;
 }
 
 
